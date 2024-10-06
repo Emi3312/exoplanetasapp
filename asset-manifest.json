@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/exoplanetasapp/static/css/main.e6c13ad2.css",
+    "main.js": "/exoplanetasapp/static/js/main.4c3367ae.js",
+    "static/js/453.c8f4c29a.chunk.js": "/exoplanetasapp/static/js/453.c8f4c29a.chunk.js",
+    "static/media/planet.png": "/exoplanetasapp/static/media/planet.3699c770023b88bea8ee.png",
+    "static/media/telescopio.png": "/exoplanetasapp/static/media/telescopio.04fec99e68d5fbcfa890.png",
+    "index.html": "/exoplanetasapp/index.html",
+    "main.e6c13ad2.css.map": "/exoplanetasapp/static/css/main.e6c13ad2.css.map",
+    "main.4c3367ae.js.map": "/exoplanetasapp/static/js/main.4c3367ae.js.map",
+    "453.c8f4c29a.chunk.js.map": "/exoplanetasapp/static/js/453.c8f4c29a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4c3367ae.js"
+  ]
+}
